@@ -131,6 +131,8 @@
 }	
 /*Header for Portfolio end*/
 
+/*Header for */
+
 #bodybackground {
 	position: relative;
 	background-image: url("../images/cork-wallet.png ");
@@ -552,6 +554,8 @@ h2{
   #header1 p{padding-left: 10px;}
 
   #headerP2 {margin-left: 10px;}
+
+  #header2{width: 340px; position: relative; margin-left: 62px;}
 
 }
 /*Pictures in Portfolio section end*/
