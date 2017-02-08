@@ -462,15 +462,17 @@ h2{
 
   .paragraph{ width: 400px;}
 
-  .mainDiv{width: 250px; padding-left: 10px; padding-right: 0px;}
+  .mainDiv{ width: 250px; padding-left: 10px; padding-right: 0px;}
 
   #selfie{ height:325px; width: 375px;}
 
   #header1 h1{ margin-right: 100px;}
 
-  #header2 h1{margin-right: 0px;}
+  #header1 p{ margin-right: 30px; margin-left: 12px;}
 
-  #header2 p{padding-left: 0px;}
+  #header2 h1{ margin-right: 0px;}
+
+  #header2 p{ padding-left: 10px;}
 
   footer{width: 400px;}
 
@@ -517,6 +519,8 @@ h2{
 
   .mainDiv{width: 300px; padding-left: 20px; padding-right: 20px;}
 
+  #header1 p{ margin-right: 30px; margin-left: 103px;}
+
 
   /*Pictures in Portfolio section*/
   #div1 img{height: 200px; width: 250px;}
@@ -547,9 +551,9 @@ h2{
 
   #portfolioFooter{width: 500px;}
 
-  #header1{ position: static; width: 640px;}
+  #header1{ position: static; width: 483px; margin-left: 63px;}
 
-  #header1 h1{ margin-right: 0px;}
+  #header1 h1{ margin-right: 0px; width: 100%; margin-left: 0px; padding-right: 0px; padding-left: 0px;}
 
   #header1 p{padding-left: 10px;}
 
